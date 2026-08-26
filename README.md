@@ -34,4 +34,16 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
