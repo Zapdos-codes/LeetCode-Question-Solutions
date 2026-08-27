@@ -8,11 +8,9 @@ public:
             if(nums[i] == 0){
                 if(nums[j] != 0){
                     swap(nums[i],nums[j]);
-                    j++;i++;
+                    i++;
                 }
-                else{
-                    j++;
-                }
+                j++;
             }
             else{
                 if(nums[j] == 0){
