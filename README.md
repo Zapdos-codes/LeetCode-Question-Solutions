@@ -39,6 +39,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
