@@ -40,6 +40,7 @@
 | [0136-single-number](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0283-move-zeroes) |
+| [1991-find-the-middle-index-in-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Zapdos-codes/LeetCode-Question-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
